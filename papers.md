@@ -18,4 +18,6 @@
 - **[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)** by Bo Peng et al.
 - **[Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks](https://arxiv.org/abs/2306.07899)** by Veniamin Veselovsky, Manoel Horta Ribeiro, Robert West
 - **[Organizational Governance of Emerging Technologies: AI Adoption in Healthcare](https://arxiv.org/abs/2304.13081)** by Jee Young Kim et al.
-- 
+- **[The Gradient of Generative AI Release: Methods and Considerations](https://arxiv.org/abs/2302.04844)** by Irene Solaiman
+- **["I wouldn’t say offensive but...": Disability-Centered Perspectives on Large Language Models](https://research.google/pubs/pub52358/)** by Vinitha Gadiraju, Shaun Kane, Sunipa Dev, Alex Taylor, Ding Wang, Emily Denton, Robin Brewer
+
