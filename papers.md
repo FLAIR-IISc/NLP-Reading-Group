@@ -12,3 +12,13 @@
 - **[Preventing Verbatim Memorization in Language Models Gives a False Sense of Privacy](https://arxiv.org/abs/2210.17546)** by Daphne Ippolito, Florian Tramèr, Milad Nasr, Chiyuan Zhang, Matthew Jagielski, Katherine Lee, Christopher A. Choquette-Choo, Nicholas Carlini
 - **[Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646)** by Nicholas Carlini, Daphne Ippolito, Matthew Jagielski, Katherine Lee, Florian Tramer, Chiyuan Zhang
 - **[Stronger Together: on the Articulation of Ethical Charters, Legal Tools, and Technical Documentation in ML](https://arxiv.org/abs/2305.18615)** by Giada Pistilli, Carlos Munoz Ferrandis, Yacine Jernite, Margaret Mitchell
+- **[On the Reliability of Watermarks for Large Language Models](https://arxiv.org/abs/2306.04634)** by John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein
+- **[Debiased Fine-Tuning for Vision-language Models by Prompt Regularization](https://arxiv.org/abs/2301.12429)** by Beier Zhu, Yulei Niu, Saeil Lee, Minhoe Hur, Hanwang Zhang
+- **[Faithfulness Tests for Natural Language Explanations](https://arxiv.org/abs/2305.18029)** by Pepa Atanasova, Oana-Maria Camburu, Christina Lioma, Thomas Lukasiewicz, Jakob Grue Simonsen, Isabelle Augenstein
+- **[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)** by Bo Peng et al.
+- **[Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks](https://arxiv.org/abs/2306.07899)** by Veniamin Veselovsky, Manoel Horta Ribeiro, Robert West
+- **[Organizational Governance of Emerging Technologies: AI Adoption in Healthcare](https://arxiv.org/abs/2304.13081)** by Jee Young Kim et al.
+- **[The Gradient of Generative AI Release: Methods and Considerations](https://arxiv.org/abs/2302.04844)** by Irene Solaiman
+- **["I wouldn’t say offensive but...": Disability-Centered Perspectives on Large Language Models](https://research.google/pubs/pub52358/)** by Vinitha Gadiraju, Shaun Kane, Sunipa Dev, Alex Taylor, Ding Wang, Emily Denton, Robin Brewer
+- **[Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs//2306.09782)** by Kai Lv, Yuqing Yang, Tengxiao Liu, Qinghui Gao, Qipeng Guo, Xipeng Qiu
+
