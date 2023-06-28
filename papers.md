@@ -21,4 +21,5 @@
 - **[The Gradient of Generative AI Release: Methods and Considerations](https://arxiv.org/abs/2302.04844)** by Irene Solaiman
 - **["I wouldn’t say offensive but...": Disability-Centered Perspectives on Large Language Models](https://research.google/pubs/pub52358/)** by Vinitha Gadiraju, Shaun Kane, Sunipa Dev, Alex Taylor, Ding Wang, Emily Denton, Robin Brewer
 - **[Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs//2306.09782)** by Kai Lv, Yuqing Yang, Tengxiao Liu, Qinghui Gao, Qipeng Guo, Xipeng Qiu
+- **[Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs//2306.15595)** by Shouyuan Chen, Sherman Wong, Liangjian Chen, Yuandong Tian
 
