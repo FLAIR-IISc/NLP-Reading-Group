@@ -22,4 +22,6 @@
 - **["I wouldn’t say offensive but...": Disability-Centered Perspectives on Large Language Models](https://research.google/pubs/pub52358/)** by Vinitha Gadiraju, Shaun Kane, Sunipa Dev, Alex Taylor, Ding Wang, Emily Denton, Robin Brewer
 - **[Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs//2306.09782)** by Kai Lv, Yuqing Yang, Tengxiao Liu, Qinghui Gao, Qipeng Guo, Xipeng Qiu
 - **[Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs//2306.15595)** by Shouyuan Chen, Sherman Wong, Liangjian Chen, Yuandong Tian
+- **[Towards Climate Awareness in NLP Research](https://aclanthology.org/2022.emnlp-main.159/)** by Daniel Hershcovich, Nicolas Webersinke, Mathias Kraus, Julia Bingler, Markus Leippold
+- **[Bring Your Own Data! Self-Supervised Evaluation for Large Language Models](https://arxiv.org/abs/2306.13651v1)** by Neel Jain, Khalid Saifullah, Yuxin Wen, John Kirchenbauer, Manli Shu, Aniruddha Saha, Micah Goldblum, Jonas Geiping, Tom Goldstein
 
