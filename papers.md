@@ -22,6 +22,8 @@
 - **["I wouldn’t say offensive but...": Disability-Centered Perspectives on Large Language Models](https://research.google/pubs/pub52358/)** by Vinitha Gadiraju, Shaun Kane, Sunipa Dev, Alex Taylor, Ding Wang, Emily Denton, Robin Brewer
 - **[Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs//2306.09782)** by Kai Lv, Yuqing Yang, Tengxiao Liu, Qinghui Gao, Qipeng Guo, Xipeng Qiu
 - **[Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs//2306.15595)** by Shouyuan Chen, Sherman Wong, Liangjian Chen, Yuandong Tian
+- **[Towards Climate Awareness in NLP Research](https://aclanthology.org/2022.emnlp-main.159/)** by Daniel Hershcovich, Nicolas Webersinke, Mathias Kraus, Julia Bingler, Markus Leippold
+- **[Bring Your Own Data! Self-Supervised Evaluation for Large Language Models](https://arxiv.org/abs/2306.13651v1)** by Neel Jain, Khalid Saifullah, Yuxin Wen, John Kirchenbauer, Manli Shu, Aniruddha Saha, Micah Goldblum, Jonas Geiping, Tom Goldstein
 - **A Comparative Study on the Impact of Model Compression Techniques on Fairness in Language Models [[poster](https://assets.underline.io/lecture/76900/poster_document/90669625fcaf16eceb1b64f582e2015b.pdf)]** by Krithika Ramesh, Arnav Chavan, Shrey Pandit, and Sunayana Sitaram
 - **A New Direction in Stance Detection: Target-Stance Extraction in the Wild [[poster](https://assets.underline.io/lecture/76250/poster_document/54d3f09c3ce3ec03aed16299dc0afe20.pdf)]** by Yingjie Li, Krishna Garg and Cornelia Caragea
 - **[Backpack Language Models](https://arxiv.org/abs/2305.16765)** by John Hewitt, John Thickstun, Christopher Manning, and Percy Liang
