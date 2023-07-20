@@ -36,3 +36,16 @@
 - **[Multilingual Event Extraction from Historical Newspaper Adverts](https://arxiv.org/abs/2305.10928)** by Nadav Borenstein, Natália da Silva Perez and Isabelle Augenstein
 - **Rule By Example: Harnessing Logical Rules for Explainable Hate Speech Detection [[poster](https://assets.underline.io/lecture/76718/poster_document/065bda69801c8815b0725a78b880a6ef.pdf)]** by Christopher Clarke, Matthew Hall, Gaurav Mittal, Ye Yu, Sandra Sajeev, Jason Mars, and Mei Chen
 - **[Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection](https://arxiv.org/abs/2306.00765)** by Erik Arakelyan, Arnav Arora and Isabelle Augenstein
+
+- **[Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs/2306.15595)** by Shouyuan Chen, Sherman Wong, Liangjian Chen, Yuandong Tian
+
+- **[Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)** by Greg Yang, Edward J. Hu, Igor Babuschkin, Szymon Sidor, Xiaodong Liu, David Farhi, Nick Ryder, Jakub Pachocki, Weizhu Chen, Jianfeng Gao
+
+- **[Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs/2307.03172)** by Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, Percy Liang
+
+- **[LongNet: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/abs/2307.02486)** by Jiayu Ding, Shuming Ma, Li Dong, Xingxing Zhang, Shaohan Huang, Wenhui Wang, Nanning Zheng, Furu Wei
+
+
+- **[Stack More Layers Differently: High-Rank Training Through Low-Rank Updates](https://arxiv.org/abs/2307.05695)** Vladislav Lialin, Namrata Shivagunde, Sherin Muckatira, Anna Rumshisky
+
+- **[Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)** Yutao Sun, Li Dong, Shaohan Huang, Shuming Ma, Yuqing Xia, Jilong Xue, Jianyong Wang, Furu Wei
