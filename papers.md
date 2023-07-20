@@ -9,11 +9,11 @@
 - ~**[DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature](https://arxiv.org/abs/2301.11305)** by Eric Mitchell, Yoonho Lee, Alexander Khazatsky, Christopher D. Manning, Chelsea Finn~
 - ~**[Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944)** by Alexander Wan, Eric Wallace, Sheng Shen, Dan Klein~
 - ~**[Auditing large language models: a three-layered approach](https://arxiv.org/abs/2302.08500)** by Jakob Mökander, Jonas Schuett, Hannah Rose Kirk, Luciano Floridi~
-- **[Preventing Verbatim Memorization in Language Models Gives a False Sense of Privacy](https://arxiv.org/abs/2210.17546)** by Daphne Ippolito, Florian Tramèr, Milad Nasr, Chiyuan Zhang, Matthew Jagielski, Katherine Lee, Christopher A. Choquette-Choo, Nicholas Carlini
-- **[Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646)** by Nicholas Carlini, Daphne Ippolito, Matthew Jagielski, Katherine Lee, Florian Tramer, Chiyuan Zhang
-- **[Stronger Together: on the Articulation of Ethical Charters, Legal Tools, and Technical Documentation in ML](https://arxiv.org/abs/2305.18615)** by Giada Pistilli, Carlos Munoz Ferrandis, Yacine Jernite, Margaret Mitchell
-- **[On the Reliability of Watermarks for Large Language Models](https://arxiv.org/abs/2306.04634)** by John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein
-- **[Debiased Fine-Tuning for Vision-language Models by Prompt Regularization](https://arxiv.org/abs/2301.12429)** by Beier Zhu, Yulei Niu, Saeil Lee, Minhoe Hur, Hanwang Zhang
+- ~**[Preventing Verbatim Memorization in Language Models Gives a False Sense of Privacy](https://arxiv.org/abs/2210.17546)** by Daphne Ippolito, Florian Tramèr, Milad Nasr, Chiyuan Zhang, Matthew Jagielski, Katherine Lee, Christopher A. Choquette-Choo, Nicholas Carlini~
+- ~**[Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646)** by Nicholas Carlini, Daphne Ippolito, Matthew Jagielski, Katherine Lee, Florian Tramer, Chiyuan Zhang~
+- ~**[Stronger Together: on the Articulation of Ethical Charters, Legal Tools, and Technical Documentation in ML](https://arxiv.org/abs/2305.18615)** by Giada Pistilli, Carlos Munoz Ferrandis, Yacine Jernite, Margaret Mitchell~
+- ~**[On the Reliability of Watermarks for Large Language Models](https://arxiv.org/abs/2306.04634)** by John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein~
+- ~**[Debiased Fine-Tuning for Vision-language Models by Prompt Regularization](https://arxiv.org/abs/2301.12429)** by Beier Zhu, Yulei Niu, Saeil Lee, Minhoe Hur, Hanwang Zhang~
 - **[Faithfulness Tests for Natural Language Explanations](https://arxiv.org/abs/2305.18029)** by Pepa Atanasova, Oana-Maria Camburu, Christina Lioma, Thomas Lukasiewicz, Jakob Grue Simonsen, Isabelle Augenstein
 - **[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)** by Bo Peng et al.
 - **[Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks](https://arxiv.org/abs/2306.07899)** by Veniamin Veselovsky, Manoel Horta Ribeiro, Robert West
