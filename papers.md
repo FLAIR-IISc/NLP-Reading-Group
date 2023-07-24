@@ -14,10 +14,10 @@
 - ~**[Stronger Together: on the Articulation of Ethical Charters, Legal Tools, and Technical Documentation in ML](https://arxiv.org/abs/2305.18615)** by Giada Pistilli, Carlos Munoz Ferrandis, Yacine Jernite, Margaret Mitchell~
 - ~**[On the Reliability of Watermarks for Large Language Models](https://arxiv.org/abs/2306.04634)** by John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein~
 - ~**[Debiased Fine-Tuning for Vision-language Models by Prompt Regularization](https://arxiv.org/abs/2301.12429)** by Beier Zhu, Yulei Niu, Saeil Lee, Minhoe Hur, Hanwang Zhang~
-- ~**[Grokking of Hierarchical Structure in Vanilla Transformers](https://arxiv.org/abs/2305.18741)** by Shikhar Murty, Pratyusha Sharma, Jacob Andreas, and Christopher Manning~
+- ~**[Grokking of Hierarchical Structure in Vanilla Transformers](https://arxiv.org/abs/2305.18741)** by Shikhar Murty, Pratyusha Sharma, Jacob Andreas, Christopher Manning~
 - ~**[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)** by Bo Peng et al.~
 - ~**[Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)** Yutao Sun, Li Dong, Shaohan Huang, Shuming Ma, Yuqing Xia, Jilong Xue, Jianyong Wang, Furu Wei~
-- ~**[Backpack Language Models](https://arxiv.org/abs/2305.16765)** by John Hewitt, John Thickstun, Christopher Manning, and Percy Liang~
+- ~**[Backpack Language Models](https://arxiv.org/abs/2305.16765)** by John Hewitt, John Thickstun, Christopher Manning, Percy Liang~
 - **[Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs//2306.15595)** by Shouyuan Chen, Sherman Wong, Liangjian Chen, Yuandong Tian
 - **[Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs/2307.03172)** by Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, Percy Liang
 - **[LongNet: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/abs/2307.02486)** by Jiayu Ding, Shuming Ma, Li Dong, Xingxing Zhang, Shaohan Huang, Wenhui Wang, Nanning Zheng, Furu Wei
@@ -29,19 +29,38 @@
 - **[Towards Climate Awareness in NLP Research](https://aclanthology.org/2022.emnlp-main.159/)** by Daniel Hershcovich, Nicolas Webersinke, Mathias Kraus, Julia Bingler, Markus Leippold
 - **[Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs//2306.09782)** by Kai Lv, Yuqing Yang, Tengxiao Liu, Qinghui Gao, Qipeng Guo, Xipeng Qiu
 - **[Stack More Layers Differently: High-Rank Training Through Low-Rank Updates](https://arxiv.org/abs/2307.05695)** Vladislav Lialin, Namrata Shivagunde, Sherin Muckatira, Anna Rumshisky
-- **[Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)** by Greg Yang, Edward J. Hu, Igor Babuschkin, Szymon Sidor, Xiaodong Liu, David Farhi, Nick Ryder, Jakub Pachocki, Weizhu Chen, Jianfeng Gao
-- **[Cold-Start Data Selection for Better Few-shot Language Model Fine-tuning: A Prompt-based Uncertainty Propagation Approach](https://arxiv.org/abs/2209.06995)** by Yue Yu, Rongzhi Zhang, Ran Xu, Jieyu Zhang, Jiaming Shen, and Chao Zhang
-- **[Faithfulness Tests for Natural Language Explanations](https://arxiv.org/abs/2305.18029)** by Pepa Atanasova, Oana-Maria Camburu, Christina Lioma, Thomas Lukasiewicz, Jakob Grue Simonsen, Isabelle Augenstein
-- **[Rule By Example: Harnessing Logical Rules for Explainable Hate Speech Detection](https://aclanthology.org/2023.acl-long.22/)** by Christopher Clarke, Matthew Hall, Gaurav Mittal, Ye Yu, Sandra Sajeev, Jason Mars, and Mei Chen
+- **[Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)** by Greg Yang et al.
+- **[Cold-Start Data Selection for Better Few-shot Language Model Fine-tuning: A Prompt-based Uncertainty Propagation Approach](https://arxiv.org/abs/2209.06995)** by Yue Yu, Rongzhi Zhang, Ran Xu, Jieyu Zhang, Jiaming Shen, Chao Zhang
+- **[Faithfulness Tests for Natural Language Explanations](https://arxiv.org/abs/2305.18029)** by Pepa Atanasovaet el.
+- **[Rule By Example: Harnessing Logical Rules for Explainable Hate Speech Detection](https://aclanthology.org/2023.acl-long.22/)** by Christopher Clarke, Matthew Hall, Gaurav Mittal, Ye Yu, Sandra Sajeev, Jason Mars, Mei Chen
 - **["I wouldn’t say offensive but...": Disability-Centered Perspectives on Large Language Models](https://research.google/pubs/pub52358/)** by Vinitha Gadiraju, Shaun Kane, Sunipa Dev, Alex Taylor, Ding Wang, Emily Denton, Robin Brewer
-- **[A Comparative Study on the Impact of Model Compression Techniques on Fairness in Language Models](https://aclanthology.org/2023.acl-long.878/)** by Krithika Ramesh, Arnav Chavan, Shrey Pandit, and Sunayana Sitaram
-- **[FairPrism: Evaluating Fairness-Related Harms in Text Generation](http://users.umiacs.umd.edu/~hal/docs/daume23fairprism.pdf)** by Eve Fleisig, Aubrie Amstutz, Chad Atalla, Su Lin Blodgett, Hal Daumé III, Alexandra Olteanu, Emily Sheng, Dan Vann and Hanna Wallach
-- **[Improving Gender Fairness of Pre-Trained Language Models without Catastrophic Forgetting](https://arxiv.org/abs/2110.05367)** by Zahra Fatemi, Chen Xing, Wenhao Liu, Caimming Xiong, and Zahra Fatemi
+- **[A Comparative Study on the Impact of Model Compression Techniques on Fairness in Language Models](https://aclanthology.org/2023.acl-long.878/)** by Krithika Ramesh, Arnav Chavan, Shrey Pandit, Sunayana Sitaram
+- **[FairPrism: Evaluating Fairness-Related Harms in Text Generation](http://users.umiacs.umd.edu/~hal/docs/daume23fairprism.pdf)** by Eve Fleisig et el.
+- **[Improving Gender Fairness of Pre-Trained Language Models without Catastrophic Forgetting](https://arxiv.org/abs/2110.05367)** by Zahra Fatemi, Chen Xing, Wenhao Liu, Caimming Xiong, Zahra Fatemi
 - **[Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models](https://aclanthology.org/2023.acl-long.84.pdf)** by Myra Cheng, Esin Durmus, Dan Jurafsky
-- **[Bring Your Own Data! Self-Supervised Evaluation for Large Language Models](https://arxiv.org/abs/2306.13651v1)** by Neel Jain, Khalid Saifullah, Yuxin Wen, John Kirchenbauer, Manli Shu, Aniruddha Saha, Micah Goldblum, Jonas Geiping, Tom Goldstein
-- **[Causality-aware Concept Extraction based on Knowledge-guided Prompting](https://arxiv.org/abs/2305.01876)** by Siyu Yuan, Deqing Yang, Jinxi Liu, Shuyu Tian, Jiaqing Liang, Yanghua Xiao, and Rui Xie
-- **[Compositional Generalization without Trees using Multiset Tagging and Latent Permutations](https://arxiv.org/abs/2305.16954)** by Matthias Lindemann, Alexander Koller and Ivan Titov
-- **[A New Direction in Stance Detection: Target-Stance Extraction in the Wild](https://aclanthology.org/2023.acl-long.560/)** by Yingjie Li, Krishna Garg and Cornelia Caragea
-- **[Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection](https://arxiv.org/abs/2306.00765)** by Erik Arakelyan, Arnav Arora and Isabelle Augenstein
-- **[Multilingual Event Extraction from Historical Newspaper Adverts](https://arxiv.org/abs/2305.10928)** by Nadav Borenstein, Natália da Silva Perez and Isabelle Augenstein
+- **[Bring Your Own Data! Self-Supervised Evaluation for Large Language Models](https://arxiv.org/abs/2306.13651v1)** by Neel Jain et el.
+- **[Causality-aware Concept Extraction based on Knowledge-guided Prompting](https://arxiv.org/abs/2305.01876)** by Siyu Yuan, Deqing Yang, Jinxi Liu, Shuyu Tian, Jiaqing Liang, Yanghua Xiao, Rui Xie
+- **[Compositional Generalization without Trees using Multiset Tagging and Latent Permutations](https://arxiv.org/abs/2305.16954)** by Matthias Lindemann, Alexander Koller, Ivan Titov
+- **[A New Direction in Stance Detection: Target-Stance Extraction in the Wild](https://aclanthology.org/2023.acl-long.560/)** by Yingjie Li, Krishna Garg, Cornelia Caragea
+- **[Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection](https://arxiv.org/abs/2306.00765)** by Erik Arakelyan, Arnav Arora, Isabelle Augenstein
+- **[Multilingual Event Extraction from Historical Newspaper Adverts](https://arxiv.org/abs/2305.10928)** by Nadav Borenstein, Natália da Silva Perez, Isabelle Augenstein
 - **[When Does Translation Require Context? A Data-driven, Multilingual Exploration](https://aclanthology.org/2023.acl-long.36/)** by Patrick Fernandes, Kayo Yin, Emmy Liu, André Martins, Graham Neubig
+
+- **[Whose Opinions Do Language Models Reflect?](https://openreview.net/forum?id=7IRybndMLU)** by Shibani Santurkar, Esin Durmus, Faisal Ladhak, Cinoo Lee, Percy Liang, Tatsunori Hashimoto
+- **[Pretraining Language Models with Human Preferences](https://openreview.net/forum?id=AT8Iw8KOeC)** by Tomasz Korbak at el.
+- **[TRAK: Attributing Model Behavior at Scale](https://openreview.net/forum?id=PBRArApxMh)** by Sung Min Park, Kristian Georgiev, Andrew Ilyas, Guillaume Leclerc, Aleksander Madry
+- **[Data Feedback Loops: Model-driven Amplification of Dataset Biases](https://openreview.net/forum?id=8JXMDw2xGa)** by Rohan Taori, Tatsunori Hashimoto
+- **[On the Role of Attention in Prompt-tuning](https://openreview.net/forum?id=qorOnDor89)** by Samet Oymak, Ankit Singh Rawat, Mahdi Soltanolkotabi, Christos Thrampoulidis
+- **[A Study on Transformer Configuration and Training Objective](https://openreview.net/forum?id=qaWSjkLPuw)** by Fuzhao Xue et al.
+- **[The case for 4-bit precision: k-bit Inference Scaling Laws](https://openreview.net/forum?id=i8tGb1ab1j)** by Tim Dettmers, Luke Zettlemoyer
+- **[Stabilizing Transformer Training by Preventing Attention Entropy Collapse](https://openreview.net/forum?id=LL8gz8FHxH)** by Shuangfei Zhai at el.
+- **[On Provable Copyright Protection for Generative Models](https://openreview.net/forum?id=qRAHZVnQNY)** by Nikhil Vyas, Sham M. Kakade, Boaz Barak
+- **[Towards Trustworthy Explanation: On Causal Rationalization](https://openreview.net/forum?id=fvTgh4MNUV)** by Wenbo Zhang, TONG WU, Yunlong Wang, Yong Cai, Hengrui Cai
+- **[Exploring the Benefits of Training Expert Language Models over Instruction Tuning](https://openreview.net/forum?id=VAA1itvsNQ)** by Joel Jang at el.
+- **[Protecting Language Generation Models via Invisible Watermarking](https://openreview.net/forum?id=dfLRMF5Hss)** by Xuandong Zhao, Yu-Xiang Wang, Lei Li
+- **[Automatically Auditing Large Language Models via Discrete Optimization](https://openreview.net/forum?id=YaXiH2B0Sb)** by Erik Jones, Anca Dragan, Aditi Raghunathan, Jacob Steinhardt
+- **[Large Language Models Struggle to Learn Long-Tail Knowledge](https://openreview.net/forum?id=sfdKdeczaw)** by Nikhil Kandpal, Haikang Deng, Adam Roberts, Eric Wallace, Colin Raffel
+- **[Differential Privacy, Linguistic Fairness, and Training Data Influence: Impossibility and Possibility Theorems for Multilingual Language Models](https://openreview.net/forum?id=SP6w4sVCyp)** by Phillip Rust, Anders Søgaard
+- **[Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies](https://openreview.net/forum?id=eYlLlvzngu)** by Gati Aher, Rosa I. Arriaga, Adam Tauman Kalai
+- **[Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models](https://openreview.net/forum?id=9UCTB84L6e)** by Hong Liu, Sang Michael Xie, Zhiyuan Li, Tengyu Ma
+- **[Large Language Models Can Be Easily Distracted by Irrelevant Context](https://openreview.net/forum?id=JSZmoN03Op)** by Freda Shi et al.
