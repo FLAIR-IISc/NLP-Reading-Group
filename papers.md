@@ -14,14 +14,15 @@
 - ~**[Stronger Together: on the Articulation of Ethical Charters, Legal Tools, and Technical Documentation in ML](https://arxiv.org/abs/2305.18615)** by Giada Pistilli, Carlos Munoz Ferrandis, Yacine Jernite, Margaret Mitchell~
 - ~**[On the Reliability of Watermarks for Large Language Models](https://arxiv.org/abs/2306.04634)** by John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein~
 - ~**[Debiased Fine-Tuning for Vision-language Models by Prompt Regularization](https://arxiv.org/abs/2301.12429)** by Beier Zhu, Yulei Niu, Saeil Lee, Minhoe Hur, Hanwang Zhang~
-- **[Grokking of Hierarchical Structure in Vanilla Transformers](https://arxiv.org/abs/2305.18741)** by Shikhar Murty, Pratyusha Sharma, Jacob Andreas, and Christopher Manning
-- **[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)** by Bo Peng et al.
-- **[Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)** Yutao Sun, Li Dong, Shaohan Huang, Shuming Ma, Yuqing Xia, Jilong Xue, Jianyong Wang, Furu Wei
-- **[Backpack Language Models](https://arxiv.org/abs/2305.16765)** by John Hewitt, John Thickstun, Christopher Manning, and Percy Liang
+- ~**[Grokking of Hierarchical Structure in Vanilla Transformers](https://arxiv.org/abs/2305.18741)** by Shikhar Murty, Pratyusha Sharma, Jacob Andreas, and Christopher Manning~
+- ~**[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)** by Bo Peng et al.~
+- ~**[Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)** Yutao Sun, Li Dong, Shaohan Huang, Shuming Ma, Yuqing Xia, Jilong Xue, Jianyong Wang, Furu Wei~
+- ~**[Backpack Language Models](https://arxiv.org/abs/2305.16765)** by John Hewitt, John Thickstun, Christopher Manning, and Percy Liang~
 - **[Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs//2306.15595)** by Shouyuan Chen, Sherman Wong, Liangjian Chen, Yuandong Tian
 - **[Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs/2307.03172)** by Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, Percy Liang
 - **[LongNet: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/abs/2307.02486)** by Jiayu Ding, Shuming Ma, Li Dong, Xingxing Zhang, Shaohan Huang, Wenhui Wang, Nanning Zheng, Furu Wei
 - **[Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks](https://arxiv.org/abs/2306.07899)** by Veniamin Veselovsky, Manoel Horta Ribeiro, Robert West
+- **[LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs](https://arxiv.org/pdf/2307.10168.pdf)** by Tongshuang Wu et al.
 - **[Organizational Governance of Emerging Technologies: AI Adoption in Healthcare](https://arxiv.org/abs/2304.13081)** by Jee Young Kim et al.
 - **[The Gradient of Generative AI Release: Methods and Considerations](https://arxiv.org/abs/2302.04844)** by Irene Solaiman
 - **[Predictability and Surprise in Large Generative Models](https://dl.acm.org/doi/abs/10.1145/3531146.3533229)** by Deep Ganguli et al.
