@@ -26,6 +26,7 @@
 - **[LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs](https://arxiv.org/pdf/2307.10168.pdf)** by Tongshuang Wu et al.
 - **[Design Choices for Crowdsourcing Implicit Discourse Relations: Revealing the Biases Introduced by Task Design](https://arxiv.org/abs/2304.00815)** by Valentina Pyatkin, Frances Yung, Merel C.J. Scholman, Reut Tsarfaty, Ido Dagan, Vera Demberg
 - **[Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies](https://openreview.net/forum?id=eYlLlvzngu)** by Gati Aher, Rosa I. Arriaga, Adam Tauman Kalai
+- **[What Does it Mean for a Language Model to Preserve Privacy?](https://dl.acm.org/doi/pdf/10.1145/3531146.3534642)** by Hannah Brown, Katherine Lee, Fatemehsadat Mireshghallah, Reza Shokri, Florian Tramèr
 - **[Differential Privacy, Linguistic Fairness, and Training Data Influence: Impossibility and Possibility Theorems for Multilingual Language Models](https://openreview.net/forum?id=SP6w4sVCyp)** by Phillip Rust, Anders Søgaard
 - **[Multilingual Event Extraction from Historical Newspaper Adverts](https://arxiv.org/abs/2305.10928)** by Nadav Borenstein, Natália da Silva Perez, Isabelle Augenstein
 - **[When Does Translation Require Context? A Data-driven, Multilingual Exploration](https://aclanthology.org/2023.acl-long.36/)** by Patrick Fernandes, Kayo Yin, Emmy Liu, André Martins, Graham Neubig
