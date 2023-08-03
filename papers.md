@@ -26,7 +26,11 @@
 - **[Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs//2306.15595)** by Shouyuan Chen, Sherman Wong, Liangjian Chen, Yuandong Tian
 - **[LongNet: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/abs/2307.02486)** by Jiayu Ding, Shuming Ma, Li Dong, Xingxing Zhang, Shaohan Huang, Wenhui Wang, Nanning Zheng, Furu Wei
 - **[Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs/2307.03172)** by Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, Percy Liang
-- **[Large Language Models Can Be Easily Distracted by Irrelevant Context](https://openreview.net/forum?id=JSZmoN03Op)** by Freda Shi et al.
+<!--Scaling-->
+- **[No Train No Gain: Revisiting Efficient Training Algorithms For Transformer-based Language Models](https://arxiv.org/pdf/2307.06440.pdf)** by Jean Kaddour, Oscar Key, Piotr Nawrot, Pasquale Minervini, Matt J. Kusner1
+<!--Decoding Innovations-->  
+- **[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)** by Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan
+- **[Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding](https://arxiv.org/abs/2307.15337)** Xuefei Ning, Zinan Lin, Zixuan Zhou, Huazhong Yang, Yu Wang
 <!--Crowdsurcing Annotations-->  
 - **[Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks](https://arxiv.org/abs/2306.07899)** by Veniamin Veselovsky, Manoel Horta Ribeiro, Robert West
 - **[LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs](https://arxiv.org/pdf/2307.10168.pdf)** by Tongshuang Wu et al.
@@ -40,6 +44,7 @@
 - **[Multilingual Event Extraction from Historical Newspaper Adverts](https://arxiv.org/abs/2305.10928)** by Nadav Borenstein, Natália da Silva Perez, Isabelle Augenstein
 - **[When Does Translation Require Context? A Data-driven, Multilingual Exploration](https://aclanthology.org/2023.acl-long.36/)** by Patrick Fernandes, Kayo Yin, Emmy Liu, André Martins, Graham Neubig
 <!--Efficient Training, Fine-tuning, Inference-->  
+- **[Large Language Models Can Be Easily Distracted by Irrelevant Context](https://openreview.net/forum?id=JSZmoN03Op)** by Freda Shi et al.
 - **[Cold-Start Data Selection for Better Few-shot Language Model Fine-tuning: A Prompt-based Uncertainty Propagation Approach](https://arxiv.org/abs/2209.06995)** by Yue Yu, Rongzhi Zhang, Ran Xu, Jieyu Zhang, Jiaming Shen, Chao Zhang
 - **[Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs//2306.09782)** by Kai Lv, Yuqing Yang, Tengxiao Liu, Qinghui Gao, Qipeng Guo, Xipeng Qiu
 - **[Stack More Layers Differently: High-Rank Training Through Low-Rank Updates](https://arxiv.org/abs/2307.05695)** Vladislav Lialin, Namrata Shivagunde, Sherin Muckatira, Anna Rumshisky
