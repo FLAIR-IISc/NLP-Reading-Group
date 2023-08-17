@@ -29,17 +29,22 @@
 <!--Scaling-->
 - ~**[No Train No Gain: Revisiting Efficient Training Algorithms For Transformer-based Language Models](https://arxiv.org/pdf/2307.06440.pdf)** by Jean Kaddour, Oscar Key, Piotr Nawrot, Pasquale Minervini, Matt J. Kusner1~
 <!--Decoding Innovations-->  
-- **[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)** by Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan
-- **[Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding](https://arxiv.org/abs/2307.15337)** Xuefei Ning, Zinan Lin, Zixuan Zhou, Huazhong Yang, Yu Wang
+- ~**[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)** by Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan~
+- ~**[Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding](https://arxiv.org/abs/2307.15337)** Xuefei Ning, Zinan Lin, Zixuan Zhou, Huazhong Yang, Yu Wang~
 <!--Crowdsurcing Annotations-->  
-- **[Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks](https://arxiv.org/abs/2306.07899)** by Veniamin Veselovsky, Manoel Horta Ribeiro, Robert West
-- **[LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs](https://arxiv.org/pdf/2307.10168.pdf)** by Tongshuang Wu et al.
+- ~**[Artificial Artificial Artificial Intelligence: Crowd Workers Widely Use Large Language Models for Text Production Tasks](https://arxiv.org/abs/2306.07899)** by Veniamin Veselovsky, Manoel Horta Ribeiro, Robert West~
+- ~**[LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs](https://arxiv.org/pdf/2307.10168.pdf)** by Tongshuang Wu et al.~
 - **[Design Choices for Crowdsourcing Implicit Discourse Relations: Revealing the Biases Introduced by Task Design](https://arxiv.org/abs/2304.00815)** by Valentina Pyatkin, Frances Yung, Merel C.J. Scholman, Reut Tsarfaty, Ido Dagan, Vera Demberg
 - **[Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies](https://openreview.net/forum?id=eYlLlvzngu)** by Gati Aher, Rosa I. Arriaga, Adam Tauman Kalai
 <!--Privacy and Security in LLMs-->  
 - **[What Does it Mean for a Language Model to Preserve Privacy?](https://dl.acm.org/doi/pdf/10.1145/3531146.3534642)** by Hannah Brown, Katherine Lee, Fatemehsadat Mireshghallah, Reza Shokri, Florian Tramèr
 - **[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)** by Andy Zou, Zifan Wang, J. Zico Kolter, Matt Fredrikson
 - **[Differential Privacy, Linguistic Fairness, and Training Data Influence: Impossibility and Possibility Theorems for Multilingual Language Models](https://openreview.net/forum?id=SP6w4sVCyp)** by Phillip Rust, Anders Søgaard
+<!--Data Attribution and Model Editing-->  
+- **[TRAK: Attributing Model Behavior at Scale](https://openreview.net/forum?id=PBRArApxMh)** by Sung Min Park, Kristian Georgiev, Andrew Ilyas, Guillaume Leclerc, Aleksander Madry
+- **[Evaluating the Ripple Effects of Knowledge Editing in Language Models](https://arxiv.org/abs/2307.12976)** by Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva
+- **[On Provable Copyright Protection for Generative Models](https://openreview.net/forum?id=qRAHZVnQNY)** by Nikhil Vyas, Sham M. Kakade, Boaz Barak
+- **[Tools for Verifying Neural Models' Training Data](https://arxiv.org/abs/2307.00682)** by Dami Choi, Yonadav Shavit, David Duvenaud
 <!--Multi-linguality-->  
 - **[Multilingual Event Extraction from Historical Newspaper Adverts](https://arxiv.org/abs/2305.10928)** by Nadav Borenstein, Natália da Silva Perez, Isabelle Augenstein
 - **[When Does Translation Require Context? A Data-driven, Multilingual Exploration](https://aclanthology.org/2023.acl-long.36/)** by Patrick Fernandes, Kayo Yin, Emmy Liu, André Martins, Graham Neubig
@@ -48,7 +53,6 @@
 - **[Cold-Start Data Selection for Better Few-shot Language Model Fine-tuning: A Prompt-based Uncertainty Propagation Approach](https://arxiv.org/abs/2209.06995)** by Yue Yu, Rongzhi Zhang, Ran Xu, Jieyu Zhang, Jiaming Shen, Chao Zhang
 - **[Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs//2306.09782)** by Kai Lv, Yuqing Yang, Tengxiao Liu, Qinghui Gao, Qipeng Guo, Xipeng Qiu
 - **[Stack More Layers Differently: High-Rank Training Through Low-Rank Updates](https://arxiv.org/abs/2307.05695)** Vladislav Lialin, Namrata Shivagunde, Sherin Muckatira, Anna Rumshisky
-- **[No Train No Gain: Revisiting Efficient Training Algorithms For Transformer-based Language Models](https://arxiv.org/pdf/2307.06440.pdf)** by Jean Kaddour, Oscar Key, Piotr Nawrot, Pasquale Minervini, Matt J. Kusner
 - **[Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)** by Greg Yang et al.
 - **[The case for 4-bit precision: k-bit Inference Scaling Laws](https://openreview.net/forum?id=i8tGb1ab1j)** by Tim Dettmers, Luke Zettlemoyer
 <!--Explanation and Rationalization-->  
@@ -76,11 +80,6 @@
 - **[Compositional Generalization without Trees using Multiset Tagging and Latent Permutations](https://arxiv.org/abs/2305.16954)** by Matthias Lindemann, Alexander Koller, Ivan Titov
 - **[A New Direction in Stance Detection: Target-Stance Extraction in the Wild](https://aclanthology.org/2023.acl-long.560/)** by Yingjie Li, Krishna Garg, Cornelia Caragea
 - **[Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection](https://arxiv.org/abs/2306.00765)** by Erik Arakelyan, Arnav Arora, Isabelle Augenstein
-<!--Data Attribution and Model Editing-->  
-- **[TRAK: Attributing Model Behavior at Scale](https://openreview.net/forum?id=PBRArApxMh)** by Sung Min Park, Kristian Georgiev, Andrew Ilyas, Guillaume Leclerc, Aleksander Madry
-- **[Evaluating the Ripple Effects of Knowledge Editing in Language Models](https://arxiv.org/abs/2307.12976)** by Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva
-- **[On Provable Copyright Protection for Generative Models](https://openreview.net/forum?id=qRAHZVnQNY)** by Nikhil Vyas, Sham M. Kakade, Boaz Barak
-- **[Tools for Verifying Neural Models' Training Data](https://arxiv.org/abs/2307.00682)** by Dami Choi, Yonadav Shavit, David Duvenaud
 <!--Tranformer ML-->  
 - **[A Study on Transformer Configuration and Training Objective](https://openreview.net/forum?id=qaWSjkLPuw)** by Fuzhao Xue et al.
 - **[Stabilizing Transformer Training by Preventing Attention Entropy Collapse](https://openreview.net/forum?id=LL8gz8FHxH)** by Shuangfei Zhai at el.
