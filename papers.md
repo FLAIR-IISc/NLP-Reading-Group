@@ -37,17 +37,27 @@
 - **[Design Choices for Crowdsourcing Implicit Discourse Relations: Revealing the Biases Introduced by Task Design](https://arxiv.org/abs/2304.00815)** by Valentina Pyatkin, Frances Yung, Merel C.J. Scholman, Reut Tsarfaty, Ido Dagan, Vera Demberg
 - **[Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies](https://openreview.net/forum?id=eYlLlvzngu)** by Gati Aher, Rosa I. Arriaga, Adam Tauman Kalai
 <!--Privacy and Security in LLMs-->  
-- **[What Does it Mean for a Language Model to Preserve Privacy?](https://dl.acm.org/doi/pdf/10.1145/3531146.3534642)** by Hannah Brown, Katherine Lee, Fatemehsadat Mireshghallah, Reza Shokri, Florian Tramèr
-- **[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)** by Andy Zou, Zifan Wang, J. Zico Kolter, Matt Fredrikson
-- **[Differential Privacy, Linguistic Fairness, and Training Data Influence: Impossibility and Possibility Theorems for Multilingual Language Models](https://openreview.net/forum?id=SP6w4sVCyp)** by Phillip Rust, Anders Søgaard
+- ~**[What Does it Mean for a Language Model to Preserve Privacy?](https://dl.acm.org/doi/pdf/10.1145/3531146.3534642)** by Hannah Brown, Katherine Lee, Fatemehsadat Mireshghallah, Reza Shokri, Florian Tramèr~
+- ~**[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)** by Andy Zou, Zifan Wang, J. Zico Kolter, Matt Fredrikson~
+<!--Tranformer ML-->  
+- **[A Study on Transformer Configuration and Training Objective](https://arxiv.org/abs/2205.10505)** by Fuzhao Xue et al.
+- **[Auto-Regressive Next-Token Predictors are Universal Learners](https://arxiv.org/abs/2309.06979)** by Eran Malach
+- **[Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)** by Davoud Ataee Tarzanagh, Yingcong Li, Christos Thrampoulidis, Samet Oymak
+- **[Stabilizing Transformer Training by Preventing Attention Entropy Collapse](https://arxiv.org/abs/2303.06296)** by Shuangfei Zhai et al.
+- **[On the Role of Attention in Prompt-tuning](https://arxiv.org/abs/2306.03435)** by Samet Oymak, Ankit Singh Rawat, Mahdi Soltanolkotabi, Christos Thrampoulidis
+- **[Large Language Models Struggle to Learn Long-Tail Knowledge](https://arxiv.org/abs/2211.08411)** by Nikhil Kandpal, Haikang Deng, Adam Roberts, Eric Wallace, Colin Raffel
+- **[Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models](https://openreview.net/forum?id=9UCTB84L6e)** by Hong Liu, Sang Michael Xie, Zhiyuan Li, Tengyu Ma
 <!--Data Attribution and Model Editing-->  
 - **[TRAK: Attributing Model Behavior at Scale](https://openreview.net/forum?id=PBRArApxMh)** by Sung Min Park, Kristian Georgiev, Andrew Ilyas, Guillaume Leclerc, Aleksander Madry
 - **[Evaluating the Ripple Effects of Knowledge Editing in Language Models](https://arxiv.org/abs/2307.12976)** by Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva
 - **[On Provable Copyright Protection for Generative Models](https://openreview.net/forum?id=qRAHZVnQNY)** by Nikhil Vyas, Sham M. Kakade, Boaz Barak
 - **[Tools for Verifying Neural Models' Training Data](https://arxiv.org/abs/2307.00682)** by Dami Choi, Yonadav Shavit, David Duvenaud
+<!--Memorisation and Generalisation-->  
+- **[Explaining grokking through circuit efficiency](https://arxiv.org/abs/2309.02390)** by Vikrant Varma, Rohin Shah, Zachary Kenton, János Kramár, Ramana Kumar
 <!--Multi-linguality-->  
 - **[Multilingual Event Extraction from Historical Newspaper Adverts](https://arxiv.org/abs/2305.10928)** by Nadav Borenstein, Natália da Silva Perez, Isabelle Augenstein
 - **[When Does Translation Require Context? A Data-driven, Multilingual Exploration](https://aclanthology.org/2023.acl-long.36/)** by Patrick Fernandes, Kayo Yin, Emmy Liu, André Martins, Graham Neubig
+- **[Differential Privacy, Linguistic Fairness, and Training Data Influence: Impossibility and Possibility Theorems for Multilingual Language Models](https://openreview.net/forum?id=SP6w4sVCyp)** by Phillip Rust, Anders Søgaard
 <!--Efficient Training, Fine-tuning, Inference-->  
 - **[Large Language Models Can Be Easily Distracted by Irrelevant Context](https://openreview.net/forum?id=JSZmoN03Op)** by Freda Shi et al.
 - **[Cold-Start Data Selection for Better Few-shot Language Model Fine-tuning: A Prompt-based Uncertainty Propagation Approach](https://arxiv.org/abs/2209.06995)** by Yue Yu, Rongzhi Zhang, Ran Xu, Jieyu Zhang, Jiaming Shen, Chao Zhang
@@ -69,8 +79,9 @@
 - **[Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models](https://aclanthology.org/2023.acl-long.84.pdf)** by Myra Cheng, Esin Durmus, Dan Jurafsky
 - **[Whose Opinions Do Language Models Reflect?](https://openreview.net/forum?id=7IRybndMLU)** by Shibani Santurkar, Esin Durmus, Faisal Ladhak, Cinoo Lee, Percy Liang, Tatsunori Hashimoto
 <!--Insruction Tuning and Aligning with Humans Preferences -->  
-- **[Pretraining Language Models with Human Preferences](https://openreview.net/forum?id=AT8Iw8KOeC)** by Tomasz Korbak at el.
-- **[Exploring the Benefits of Training Expert Language Models over Instruction Tuning](https://openreview.net/forum?id=VAA1itvsNQ)** by Joel Jang at el.
+- **[Pretraining Language Models with Human Preferences](https://openreview.net/forum?id=AT8Iw8KOeC)** by Tomasz Korbak et al.
+- **[Exploring the Benefits of Training Expert Language Models over Instruction Tuning](https://openreview.net/forum?id=VAA1itvsNQ)** by Joel Jang et al.
+- **[How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources](https://arxiv.org/abs/2306.04751)** by Yizhong Wang et al.
 - **[On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)** by Manli Shu, Jiongxiao Wang, Chen Zhu, Jonas Geiping, Chaowei Xiao, Tom Goldstein
 - **[Protecting Language Generation Models via Invisible Watermarking](https://openreview.net/forum?id=dfLRMF5Hss)** by Xuandong Zhao, Yu-Xiang Wang, Lei Li
 <!--Auditing-->  
@@ -80,9 +91,8 @@
 - **[Compositional Generalization without Trees using Multiset Tagging and Latent Permutations](https://arxiv.org/abs/2305.16954)** by Matthias Lindemann, Alexander Koller, Ivan Titov
 - **[A New Direction in Stance Detection: Target-Stance Extraction in the Wild](https://aclanthology.org/2023.acl-long.560/)** by Yingjie Li, Krishna Garg, Cornelia Caragea
 - **[Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection](https://arxiv.org/abs/2306.00765)** by Erik Arakelyan, Arnav Arora, Isabelle Augenstein
-<!--Tranformer ML-->  
-- **[A Study on Transformer Configuration and Training Objective](https://openreview.net/forum?id=qaWSjkLPuw)** by Fuzhao Xue et al.
-- **[Stabilizing Transformer Training by Preventing Attention Entropy Collapse](https://openreview.net/forum?id=LL8gz8FHxH)** by Shuangfei Zhai at el.
-- **[On the Role of Attention in Prompt-tuning](https://openreview.net/forum?id=qorOnDor89)** by Samet Oymak, Ankit Singh Rawat, Mahdi Soltanolkotabi, Christos Thrampoulidis
-- **[Large Language Models Struggle to Learn Long-Tail Knowledge](https://openreview.net/forum?id=sfdKdeczaw)** by Nikhil Kandpal, Haikang Deng, Adam Roberts, Eric Wallace, Colin Raffel
-- **[Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models](https://openreview.net/forum?id=9UCTB84L6e)** by Hong Liu, Sang Michael Xie, Zhiyuan Li, Tengyu Ma
+<!--Reproducility/ Consistency/ Fairness in Evaluations-->
+- **[REFORMS: Reporting Standards for Machine Learning Based Science](https://arxiv.org/abs/2308.07832)** by Sayash Kapoor et al.
+- **[Predictive Multiplicity in Probabilistic Classification](https://arxiv.org/abs/2206.01131)** by Jamelle Watson-Daniels, David C. Parkes, Berk Ustun
+- **[Is My Prediction Arbitrary? The Confounding Effects of Variance in Fair Classification Benchmarks](https://arxiv.org/abs/2301.11562)** by A. Feder Cooper et al.
+- **[Troubling Trends in Machine Learning Scholarship](https://arxiv.org/abs/1807.03341)** by Zachary C. Lipton, Jacob Steinhardt
