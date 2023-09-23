@@ -39,11 +39,11 @@
 <!--Privacy and Security in LLMs-->  
 - ~**[What Does it Mean for a Language Model to Preserve Privacy?](https://dl.acm.org/doi/pdf/10.1145/3531146.3534642)** by Hannah Brown, Katherine Lee, Fatemehsadat Mireshghallah, Reza Shokri, Florian Tramèr~
 - ~**[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)** by Andy Zou, Zifan Wang, J. Zico Kolter, Matt Fredrikson~
-<!--Tranformer ML-->  
-- **[A Study on Transformer Configuration and Training Objective](https://arxiv.org/abs/2205.10505)** by Fuzhao Xue et al.
-- **[Auto-Regressive Next-Token Predictors are Universal Learners](https://arxiv.org/abs/2309.06979)** by Eran Malach
-- **[Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)** by Davoud Ataee Tarzanagh, Yingcong Li, Christos Thrampoulidis, Samet Oymak
-- **[Stabilizing Transformer Training by Preventing Attention Entropy Collapse](https://arxiv.org/abs/2303.06296)** by Shuangfei Zhai et al.
+<!--Transformer ML-->  
+- ~**[A Study on Transformer Configuration and Training Objective](https://arxiv.org/abs/2205.10505)** by Fuzhao Xue et al.~
+- ~**[Auto-Regressive Next-Token Predictors are Universal Learners](https://arxiv.org/abs/2309.06979)** by Eran Malach~
+- ~**[Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)** by Davoud Ataee Tarzanagh, Yingcong Li, Christos Thrampoulidis, Samet Oymak~
+- ~**[Stabilizing Transformer Training by Preventing Attention Entropy Collapse](https://arxiv.org/abs/2303.06296)** by Shuangfei Zhai et al.~
 - **[On the Role of Attention in Prompt-tuning](https://arxiv.org/abs/2306.03435)** by Samet Oymak, Ankit Singh Rawat, Mahdi Soltanolkotabi, Christos Thrampoulidis
 - **[Large Language Models Struggle to Learn Long-Tail Knowledge](https://arxiv.org/abs/2211.08411)** by Nikhil Kandpal, Haikang Deng, Adam Roberts, Eric Wallace, Colin Raffel
 - **[Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models](https://openreview.net/forum?id=9UCTB84L6e)** by Hong Liu, Sang Michael Xie, Zhiyuan Li, Tengyu Ma
@@ -96,3 +96,5 @@
 - **[How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources](https://arxiv.org/abs/2306.04751)** by Yizhong Wang et al.
 - **[On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)** by Manli Shu, Jiongxiao Wang, Chen Zhu, Jonas Geiping, Chaowei Xiao, Tom Goldstein
 - **[Protecting Language Generation Models via Invisible Watermarking](https://openreview.net/forum?id=dfLRMF5Hss)** by Xuandong Zhao, Yu-Xiang Wang, Lei Li
+<!-- Emergence / Scaling Laws -->
+- **[Are Emergent Abilities in Large Language Models just In-Context Learning?](https://arxiv.org/abs/2309.01809)** by Sheng Lu, Irina Bigoulaeva, Rachneet Sachdeva, Harish Tayyar Madabushi, Iryna Gurevych
