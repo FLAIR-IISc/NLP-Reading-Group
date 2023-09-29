@@ -44,9 +44,12 @@
 - ~**[Auto-Regressive Next-Token Predictors are Universal Learners](https://arxiv.org/abs/2309.06979)** by Eran Malach~
 - ~**[Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)** by Davoud Ataee Tarzanagh, Yingcong Li, Christos Thrampoulidis, Samet Oymak~
 - ~**[Stabilizing Transformer Training by Preventing Attention Entropy Collapse](https://arxiv.org/abs/2303.06296)** by Shuangfei Zhai et al.~
-- **[On the Role of Attention in Prompt-tuning](https://arxiv.org/abs/2306.03435)** by Samet Oymak, Ankit Singh Rawat, Mahdi Soltanolkotabi, Christos Thrampoulidis
-- **[Large Language Models Struggle to Learn Long-Tail Knowledge](https://arxiv.org/abs/2211.08411)** by Nikhil Kandpal, Haikang Deng, Adam Roberts, Eric Wallace, Colin Raffel
-- **[Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models](https://openreview.net/forum?id=9UCTB84L6e)** by Hong Liu, Sang Michael Xie, Zhiyuan Li, Tengyu Ma
+- <!--Insruction Tuning and Aligning with Humans Preferences -->
+- **[Are Emergent Abilities in Large Language Models just In-Context Learning?](https://arxiv.org/abs/2309.01809)** by Sheng Lu, Irina Bigoulaeva, Rachneet Sachdeva, Harish Tayyar Madabushi, Iryna Gurevych
+- **[How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources](https://arxiv.org/abs/2306.04751)** by Yizhong Wang et al.
+- **[Exploring the Benefits of Training Expert Language Models over Instruction Tuning](https://openreview.net/forum?id=VAA1itvsNQ)** by Joel Jang et al.
+- **[On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)** by Manli Shu, Jiongxiao Wang, Chen Zhu, Jonas Geiping, Chaowei Xiao, Tom Goldstein
+- **[Pretraining Language Models with Human Preferences](https://openreview.net/forum?id=AT8Iw8KOeC)** by Tomasz Korbak et al.
 <!--Auditing-->  
 - **[Automatically Auditing Large Language Models via Discrete Optimization](https://openreview.net/forum?id=YaXiH2B0Sb)** by Erik Jones, Anca Dragan, Aditi Raghunathan, Jacob Steinhardt
 - **[Bring Your Own Data! Self-Supervised Evaluation for Large Language Models](https://arxiv.org/abs/2306.13651v1)** by Neel Jain et el.
@@ -90,11 +93,3 @@
 - **["I wouldn’t say offensive but...": Disability-Centered Perspectives on Large Language Models](https://research.google/pubs/pub52358/)** by Vinitha Gadiraju, Shaun Kane, Sunipa Dev, Alex Taylor, Ding Wang, Emily Denton, Robin Brewer
 - **[Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models](https://aclanthology.org/2023.acl-long.84.pdf)** by Myra Cheng, Esin Durmus, Dan Jurafsky
 - **[Whose Opinions Do Language Models Reflect?](https://openreview.net/forum?id=7IRybndMLU)** by Shibani Santurkar, Esin Durmus, Faisal Ladhak, Cinoo Lee, Percy Liang, Tatsunori Hashimoto
-<!--Insruction Tuning and Aligning with Humans Preferences -->  
-- **[Pretraining Language Models with Human Preferences](https://openreview.net/forum?id=AT8Iw8KOeC)** by Tomasz Korbak et al.
-- **[Exploring the Benefits of Training Expert Language Models over Instruction Tuning](https://openreview.net/forum?id=VAA1itvsNQ)** by Joel Jang et al.
-- **[How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources](https://arxiv.org/abs/2306.04751)** by Yizhong Wang et al.
-- **[On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)** by Manli Shu, Jiongxiao Wang, Chen Zhu, Jonas Geiping, Chaowei Xiao, Tom Goldstein
-- **[Protecting Language Generation Models via Invisible Watermarking](https://openreview.net/forum?id=dfLRMF5Hss)** by Xuandong Zhao, Yu-Xiang Wang, Lei Li
-<!-- Emergence / Scaling Laws -->
-- **[Are Emergent Abilities in Large Language Models just In-Context Learning?](https://arxiv.org/abs/2309.01809)** by Sheng Lu, Irina Bigoulaeva, Rachneet Sachdeva, Harish Tayyar Madabushi, Iryna Gurevych
