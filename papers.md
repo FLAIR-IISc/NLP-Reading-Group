@@ -44,8 +44,10 @@
 - ~**[Auto-Regressive Next-Token Predictors are Universal Learners](https://arxiv.org/abs/2309.06979)** by Eran Malach~
 - ~**[Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)** by Davoud Ataee Tarzanagh, Yingcong Li, Christos Thrampoulidis, Samet Oymak~
 - ~**[Stabilizing Transformer Training by Preventing Attention Entropy Collapse](https://arxiv.org/abs/2303.06296)** by Shuangfei Zhai et al.~
-- <!--Insruction Tuning and Aligning with Humans Preferences -->
+
+<!--Insruction Tuning and Aligning with Humans Preferences -->
 - **[Are Emergent Abilities in Large Language Models just In-Context Learning?](https://arxiv.org/abs/2309.01809)** by Sheng Lu, Irina Bigoulaeva, Rachneet Sachdeva, Harish Tayyar Madabushi, Iryna Gurevych
+- **[Chain-of-Verification Reduces Hallucination in Large Language Models](https://arxiv.org/abs/2309.11495)** by Shehzaad Dhuliawala, Mojtaba Komeili, Jing Xu, Roberta Raileanu, Xian Li, Asli Celikyilmaz, Jason Weston
 - **[How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources](https://arxiv.org/abs/2306.04751)** by Yizhong Wang et al.
 - **[Exploring the Benefits of Training Expert Language Models over Instruction Tuning](https://openreview.net/forum?id=VAA1itvsNQ)** by Joel Jang et al.
 - **[On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)** by Manli Shu, Jiongxiao Wang, Chen Zhu, Jonas Geiping, Chaowei Xiao, Tom Goldstein
