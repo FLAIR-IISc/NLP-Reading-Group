@@ -45,12 +45,12 @@
 - ~**[Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)** by Davoud Ataee Tarzanagh, Yingcong Li, Christos Thrampoulidis, Samet Oymak~
 - ~**[Stabilizing Transformer Training by Preventing Attention Entropy Collapse](https://arxiv.org/abs/2303.06296)** by Shuangfei Zhai et al.~
 - <!--Insruction Tuning and Aligning with Humans Preferences -->
+- **[Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)** by Rylan Schaeffer, Brando Miranda, Sanmi Koyejo
 - **[Are Emergent Abilities in Large Language Models just In-Context Learning?](https://arxiv.org/abs/2309.01809)** by Sheng Lu, Irina Bigoulaeva, Rachneet Sachdeva, Harish Tayyar Madabushi, Iryna Gurevych
-- **[How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources](https://arxiv.org/abs/2306.04751)** by Yizhong Wang et al.
-- **[Exploring the Benefits of Training Expert Language Models over Instruction Tuning](https://openreview.net/forum?id=VAA1itvsNQ)** by Joel Jang et al.
+- **[Exploring the Benefits of Training Expert Language Models over Instruction Tuning](https://arxiv.org/abs/2302.03202)** by Joel Jang et al.
 - **[On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)** by Manli Shu, Jiongxiao Wang, Chen Zhu, Jonas Geiping, Chaowei Xiao, Tom Goldstein
-- **[Pretraining Language Models with Human Preferences](https://openreview.net/forum?id=AT8Iw8KOeC)** by Tomasz Korbak et al.
-<!--Auditing-->  
+- **[Pretraining Language Models with Human Preferences](https://arxiv.org/abs/2302.08582)** by Tomasz Korbak et al.
+<!--Auditing-->
 - **[Automatically Auditing Large Language Models via Discrete Optimization](https://openreview.net/forum?id=YaXiH2B0Sb)** by Erik Jones, Anca Dragan, Aditi Raghunathan, Jacob Steinhardt
 - **[Bring Your Own Data! Self-Supervised Evaluation for Large Language Models](https://arxiv.org/abs/2306.13651v1)** by Neel Jain et el.
 - **[Causality-aware Concept Extraction based on Knowledge-guided Prompting](https://arxiv.org/abs/2305.01876)** by Siyu Yuan, Deqing Yang, Jinxi Liu, Shuyu Tian, Jiaqing Liang, Yanghua Xiao, Rui Xie
