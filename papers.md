@@ -44,14 +44,23 @@
 - ~**[Auto-Regressive Next-Token Predictors are Universal Learners](https://arxiv.org/abs/2309.06979)** by Eran Malach~
 - ~**[Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)** by Davoud Ataee Tarzanagh, Yingcong Li, Christos Thrampoulidis, Samet Oymak~
 - ~**[Stabilizing Transformer Training by Preventing Attention Entropy Collapse](https://arxiv.org/abs/2303.06296)** by Shuangfei Zhai et al.~
-- <!--Insruction Tuning and Aligning with Humans Preferences -->
+<!--ICL and Emergent Abilities-->
 - **[Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)** by Rylan Schaeffer, Brando Miranda, Sanmi Koyejo
 - **[Are Emergent Abilities in Large Language Models just In-Context Learning?](https://arxiv.org/abs/2309.01809)** by Sheng Lu, Irina Bigoulaeva, Rachneet Sachdeva, Harish Tayyar Madabushi, Iryna Gurevych
-- **[Exploring the Benefits of Training Expert Language Models over Instruction Tuning](https://arxiv.org/abs/2302.03202)** by Joel Jang et al.
+<!--Instruction Tuning and Aligning with Humans Preferences -->
 - **[On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)** by Manli Shu, Jiongxiao Wang, Chen Zhu, Jonas Geiping, Chaowei Xiao, Tom Goldstein
+- **[Exploring the Benefits of Training Expert Language Models over Instruction Tuning](https://arxiv.org/abs/2302.03202)** by Joel Jang et al.
 - **[Pretraining Language Models with Human Preferences](https://arxiv.org/abs/2302.08582)** by Tomasz Korbak et al.
+<!--Jailbreaking-->
+- **[How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://arxiv.org/abs/2401.06373)** by Yi Zeng, Hongpeng Lin, Jingwen Zhang, Diyi Yang, Ruoxi Jia, Weiyan Shi
+- **[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/abs/2401.05566)** by Evan Hubinger et al.
+- **[Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)** by Alexander Wei, Nika Haghtalab, Jacob Steinhardt
+- **[FLIRT: Feedback Loop In-context Red Teaming](https://arxiv.org/abs/2308.04265)** by Ninareh Mehrabi et al.
+<!-- Prompting-->
+- **[Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting](https://arxiv.org/abs/2310.11324)** by Melanie Sclar, Yejin Choi, Yulia Tsvetkov, Alane Suhr
+- **[Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](https://arxiv.org/abs/2312.16171)** by Sondos Mahmoud Bsharat, Aidar Myrzakhan, Zhiqiang Shen
 <!--Auditing-->
-- **[Automatically Auditing Large Language Models via Discrete Optimization](https://openreview.net/forum?id=YaXiH2B0Sb)** by Erik Jones, Anca Dragan, Aditi Raghunathan, Jacob Steinhardt
+- **[Automatically Auditing Large Language Models via Discrete Optimization](https://arxiv.org/abs/2303.04381)** by Erik Jones, Anca Dragan, Aditi Raghunathan, Jacob Steinhardt
 - **[Bring Your Own Data! Self-Supervised Evaluation for Large Language Models](https://arxiv.org/abs/2306.13651v1)** by Neel Jain et el.
 - **[Causality-aware Concept Extraction based on Knowledge-guided Prompting](https://arxiv.org/abs/2305.01876)** by Siyu Yuan, Deqing Yang, Jinxi Liu, Shuyu Tian, Jiaqing Liang, Yanghua Xiao, Rui Xie
 - **[Compositional Generalization without Trees using Multiset Tagging and Latent Permutations](https://arxiv.org/abs/2305.16954)** by Matthias Lindemann, Alexander Koller, Ivan Titov
