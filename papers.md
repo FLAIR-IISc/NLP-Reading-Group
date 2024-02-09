@@ -48,13 +48,14 @@
 - ~**[Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)** by Rylan Schaeffer, Brando Miranda, Sanmi Koyejo~
 - ~**[Are Emergent Abilities in Large Language Models just In-Context Learning?](https://arxiv.org/abs/2309.01809)** by Sheng Lu, Irina Bigoulaeva, Rachneet Sachdeva, Harish Tayyar Madabushi, Iryna Gurevych~
 <!--Instruction Tuning and Aligning with Humans Preferences -->
-- ~**[On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)** by Manli Shu, Jiongxiao Wang, Chen Zhu, Jonas Geiping, Chaowei Xiao, Tom Goldstein
-- **[Exploring the Benefits of Training Expert Language Models over Instruction Tuning](https://arxiv.org/abs/2302.03202)** by Joel Jang et al.~
+- ~**[On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)** by Manli Shu, Jiongxiao Wang, Chen Zhu, Jonas Geiping, Chaowei Xiao, Tom Goldstein~
+- ~**[Exploring the Benefits of Training Expert Language Models over Instruction Tuning](https://arxiv.org/abs/2302.03202)** by Joel Jang et al.~
 - **[Pretraining Language Models with Human Preferences](https://arxiv.org/abs/2302.08582)** by Tomasz Korbak et al.
-<!--Jailbreaking-->
-- **[How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://arxiv.org/abs/2401.06373)** by Yi Zeng, Hongpeng Lin, Jingwen Zhang, Diyi Yang, Ruoxi Jia, Weiyan Shi
-- **[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/abs/2401.05566)** by Evan Hubinger et al.
+<!--Jailbreaking and Defenses-->
 - **[Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)** by Alexander Wei, Nika Haghtalab, Jacob Steinhardt
+- **[How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://arxiv.org/abs/2401.06373)** by Yi Zeng, Hongpeng Lin, Jingwen Zhang, Diyi Yang, Ruoxi Jia, Weiyan Shi
+- **[Baseline Defenses for Adversarial Attacks Against Aligned Language Models](https://arxiv.org/abs/2309.00614v2)** by Neel Jain et al.
+- **[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/abs/2401.05566)** by Evan Hubinger et al.
 - **[FLIRT: Feedback Loop In-context Red Teaming](https://arxiv.org/abs/2308.04265)** by Ninareh Mehrabi et al.
 <!-- Prompting-->
 - **[Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting](https://arxiv.org/abs/2310.11324)** by Melanie Sclar, Yejin Choi, Yulia Tsvetkov, Alane Suhr
