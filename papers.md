@@ -51,11 +51,16 @@
 - ~**[On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)** by Manli Shu, Jiongxiao Wang, Chen Zhu, Jonas Geiping, Chaowei Xiao, Tom Goldstein~
 - ~**[Exploring the Benefits of Training Expert Language Models over Instruction Tuning](https://arxiv.org/abs/2302.03202)** by Joel Jang et al.~
 <!--Jailbreaking and Defenses-->
-- **[Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)** by Alexander Wei, Nika Haghtalab, Jacob Steinhardt
-- **[How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://arxiv.org/abs/2401.06373)** by Yi Zeng, Hongpeng Lin, Jingwen Zhang, Diyi Yang, Ruoxi Jia, Weiyan Shi
-- **[Baseline Defenses for Adversarial Attacks Against Aligned Language Models](https://arxiv.org/abs/2309.00614v2)** by Neel Jain et al.
-- **[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/abs/2401.05566)** by Evan Hubinger et al.
-- **[FLIRT: Feedback Loop In-context Red Teaming](https://arxiv.org/abs/2308.04265)** by Ninareh Mehrabi et al.
+- ~**[Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483)** by Alexander Wei, Nika Haghtalab, Jacob Steinhardt~
+- ~**[How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://arxiv.org/abs/2401.06373)** by Yi Zeng, Hongpeng Lin, Jingwen Zhang, Diyi Yang, Ruoxi Jia, Weiyan Shi~
+- ~**[Baseline Defenses for Adversarial Attacks Against Aligned Language Models](https://arxiv.org/abs/2309.00614v2)** by Neel Jain et al.~
+- ~**[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/abs/2401.05566)** by Evan Hubinger et al.~
+- ~**[FLIRT: Feedback Loop In-context Red Teaming](https://arxiv.org/abs/2308.04265)** by Ninareh Mehrabi et al.~
+<!--Data Attribution and Model Editing-->  
+- **[TRAK: Attributing Model Behavior at Scale](https://openreview.net/forum?id=PBRArApxMh)** by Sung Min Park, Kristian Georgiev, Andrew Ilyas, Guillaume Leclerc, Aleksander Madry
+- **[Evaluating the Ripple Effects of Knowledge Editing in Language Models](https://arxiv.org/abs/2307.12976)** by Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva
+- **[On Provable Copyright Protection for Generative Models](https://openreview.net/forum?id=qRAHZVnQNY)** by Nikhil Vyas, Sham M. Kakade, Boaz Barak
+- **[Tools for Verifying Neural Models' Training Data](https://arxiv.org/abs/2307.00682)** by Dami Choi, Yonadav Shavit, David Duvenaud
 <!-- Prompting-->
 - **[Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting](https://arxiv.org/abs/2310.11324)** by Melanie Sclar, Yejin Choi, Yulia Tsvetkov, Alane Suhr
 - **[Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](https://arxiv.org/abs/2312.16171)** by Sondos Mahmoud Bsharat, Aidar Myrzakhan, Zhiqiang Shen
@@ -76,11 +81,6 @@
 - **[Predictive Multiplicity in Probabilistic Classification](https://arxiv.org/abs/2206.01131)** by Jamelle Watson-Daniels, David C. Parkes, Berk Ustun
 - **[Is My Prediction Arbitrary? The Confounding Effects of Variance in Fair Classification Benchmarks](https://arxiv.org/abs/2301.11562)** by A. Feder Cooper et al.
 - **[Troubling Trends in Machine Learning Scholarship](https://arxiv.org/abs/1807.03341)** by Zachary C. Lipton, Jacob Steinhardt
-<!--Data Attribution and Model Editing-->  
-- **[TRAK: Attributing Model Behavior at Scale](https://openreview.net/forum?id=PBRArApxMh)** by Sung Min Park, Kristian Georgiev, Andrew Ilyas, Guillaume Leclerc, Aleksander Madry
-- **[Evaluating the Ripple Effects of Knowledge Editing in Language Models](https://arxiv.org/abs/2307.12976)** by Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva
-- **[On Provable Copyright Protection for Generative Models](https://openreview.net/forum?id=qRAHZVnQNY)** by Nikhil Vyas, Sham M. Kakade, Boaz Barak
-- **[Tools for Verifying Neural Models' Training Data](https://arxiv.org/abs/2307.00682)** by Dami Choi, Yonadav Shavit, David Duvenaud
 <!--Memorisation and Generalisation-->  
 - **[Explaining grokking through circuit efficiency](https://arxiv.org/abs/2309.02390)** by Vikrant Varma, Rohin Shah, Zachary Kenton, János Kramár, Ramana Kumar
 <!--Multi-linguality-->  
