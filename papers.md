@@ -56,11 +56,13 @@
 - ~**[Baseline Defenses for Adversarial Attacks Against Aligned Language Models](https://arxiv.org/abs/2309.00614v2)** by Neel Jain et al.~
 - ~**[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/abs/2401.05566)** by Evan Hubinger et al.~
 - ~**[FLIRT: Feedback Loop In-context Red Teaming](https://arxiv.org/abs/2308.04265)** by Ninareh Mehrabi et al.~
-<!--Data Attribution and Model Editing-->  
-- **[TRAK: Attributing Model Behavior at Scale](https://openreview.net/forum?id=PBRArApxMh)** by Sung Min Park, Kristian Georgiev, Andrew Ilyas, Guillaume Leclerc, Aleksander Madry
-- **[Evaluating the Ripple Effects of Knowledge Editing in Language Models](https://arxiv.org/abs/2307.12976)** by Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva
-- **[On Provable Copyright Protection for Generative Models](https://openreview.net/forum?id=qRAHZVnQNY)** by Nikhil Vyas, Sham M. Kakade, Boaz Barak
-- **[Tools for Verifying Neural Models' Training Data](https://arxiv.org/abs/2307.00682)** by Dami Choi, Yonadav Shavit, David Duvenaud
+<!--Copyright/Privacy Issues, Data Attribution, Model Unlearning -->  
+- **[Deepfakes, Phrenology, Surveillance, and More! A Taxonomy of AI Privacy Risks](https://arxiv.org/abs/2310.07879)** by Hao-Ping Lee et al.
+- **[Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory](https://arxiv.org/abs/2310.17884)** by Niloofar Mireshghallah et al.
+- **[Proving membership in LLM pretraining data via data watermarks](https://arxiv.org/abs/2402.10892)** by Johnny Tian-Zheng Wei, Ryan Yixiang Wang, Robin Jia
+<!--Uncertainity-->
+- **[Relying on the Unreliable: The Impact of Language Models' Reluctance to Express Uncertainty](https://arxiv.org/abs/2401.06730)** by Kaitlyn Zhou, Jena D. Hwang, Xiang Ren, Maarten Sap
+- **[Cognitive Dissonance: Why Do Language Model Outputs Disagree with Internal Representations of Truthfulness?](https://aclanthology.org/2023.emnlp-main.291.pdf)** by Kevin Liu, Stephen Casper, Dylan Hadfield-Menell, Jacob Andreas
 <!-- Prompting-->
 - **[Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting](https://arxiv.org/abs/2310.11324)** by Melanie Sclar, Yejin Choi, Yulia Tsvetkov, Alane Suhr
 - **[Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](https://arxiv.org/abs/2312.16171)** by Sondos Mahmoud Bsharat, Aidar Myrzakhan, Zhiqiang Shen
