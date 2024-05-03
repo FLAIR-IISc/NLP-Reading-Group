@@ -60,11 +60,11 @@
 - ~**[Deepfakes, Phrenology, Surveillance, and More! A Taxonomy of AI Privacy Risks](https://arxiv.org/abs/2310.07879)** by Hao-Ping Lee et al.~
 - ~**[Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory](https://arxiv.org/abs/2310.17884)** by Niloofar Mireshghallah et al.~
 <!-- Prompting-->
-- **[Sensitivity, Performance, Robustness: Deconstructing the Effect of Sociodemographic Prompting](https://aclanthology.org/2024.eacl-long.159/)** by Tilman Beck, Hendrik Schuff, Anne Lauscher, Iryna Gurevych
-- **[Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting](https://arxiv.org/abs/2310.11324)** by Melanie Sclar, Yejin Choi, Yulia Tsvetkov, Alane Suhr
+- ~**[Sensitivity, Performance, Robustness: Deconstructing the Effect of Sociodemographic Prompting](https://aclanthology.org/2024.eacl-long.159/)** by Tilman Beck, Hendrik Schuff, Anne Lauscher, Iryna Gurevych~
+- ~**[Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting](https://arxiv.org/abs/2310.11324)** by Melanie Sclar, Yejin Choi, Yulia Tsvetkov, Alane Suhr~
 <!--Privacy Issues-->
-- **[Proving membership in LLM pretraining data via data watermarks](https://arxiv.org/abs/2402.10892)** by Johnny Tian-Zheng Wei, Ryan Yixiang Wang, Robin Jia
-- **[Privacy-Preserving In-Context Learning with Differentially Private Few-Shot Generation]** by Xinyu Tang et al.
+- ~**[Proving membership in LLM pretraining data via data watermarks](https://arxiv.org/abs/2402.10892)** by Johnny Tian-Zheng Wei, Ryan Yixiang Wang, Robin Jia~
+- **[Privacy-Preserving In-Context Learning with Differentially Private Few-Shot Generation](https://arxiv.org/abs/2309.11765)** by Xinyu Tang et al.
 <!--Uncertainity-->
 - **[Relying on the Unreliable: The Impact of Language Models' Reluctance to Express Uncertainty](https://arxiv.org/abs/2401.06730)** by Kaitlyn Zhou, Jena D. Hwang, Xiang Ren, Maarten Sap
 - **[Cognitive Dissonance: Why Do Language Model Outputs Disagree with Internal Representations of Truthfulness?](https://aclanthology.org/2023.emnlp-main.291.pdf)** by Kevin Liu, Stephen Casper, Dylan Hadfield-Menell, Jacob Andreas
