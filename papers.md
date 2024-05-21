@@ -62,17 +62,32 @@
 <!-- Prompting-->
 - ~**[Sensitivity, Performance, Robustness: Deconstructing the Effect of Sociodemographic Prompting](https://aclanthology.org/2024.eacl-long.159/)** by Tilman Beck, Hendrik Schuff, Anne Lauscher, Iryna Gurevych~
 - ~**[Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting](https://arxiv.org/abs/2310.11324)** by Melanie Sclar, Yejin Choi, Yulia Tsvetkov, Alane Suhr~
-<!--Privacy Issues-->
+<!--Privacy, IT/FT-->
 - ~**[Proving membership in LLM pretraining data via data watermarks](https://arxiv.org/abs/2402.10892)** by Johnny Tian-Zheng Wei, Ryan Yixiang Wang, Robin Jia~
+- ~**[Cognitive Dissonance: Why Do Language Model Outputs Disagree with Internal Representations of Truthfulness?](https://aclanthology.org/2023.emnlp-main.291.pdf)** by Kevin Liu, Stephen Casper, Dylan Hadfield-Menell, Jacob Andreas~
+- ~**[The False Promise of Imitating Proprietary LLMs](https://arxiv.org/abs/2305.15717)** by Arnav Gudibande et al.~
+
+<!--ICLR 2024-->
+#### ICLR 2024:
+- **[Proving Test Set Contamination in Black Box Language Models](https://arxiv.org/abs/2310.17623)** by Yonatan Oren et el.
+- **[Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://arxiv.org/abs/2310.03693)** by Xiangyu Qi et al.
+- **[Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511)** by Akari Asai et al.
+- **[LLMCarbon: Modeling the end-to-end Carbon Footprint of Large Language Models](https://arxiv.org/abs/2309.14393)** by Ahmad Faiz et al.
+- **[Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models](https://arxiv.org/abs/2305.09955)** by Shangbin Feng et al.
+- **[BooookScore: A systematic exploration of book-length summarization in the era of LLMs](https://arxiv.org/abs/2310.00785)** by Yapei Chang, Kyle Lo, Tanya Goyal, Mohit Iyyer
+- **[ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models](https://arxiv.org/abs/2310.04564)** by Iman Mirzadeh et al.
+- **[Self-Alignment with Instruction Backtranslation](https://arxiv.org/abs/2308.06259)** by Xian Li et al.
+  
+#### Others:
+- **[Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications](https://arxiv.org/abs/2402.05162)** by Boyi Wei et al.
+<!--Privacy Issues-->
 - **[Privacy-Preserving In-Context Learning with Differentially Private Few-Shot Generation](https://arxiv.org/abs/2309.11765)** by Xinyu Tang et al.
 <!--Uncertainity-->
 - **[Relying on the Unreliable: The Impact of Language Models' Reluctance to Express Uncertainty](https://arxiv.org/abs/2401.06730)** by Kaitlyn Zhou, Jena D. Hwang, Xiang Ren, Maarten Sap
-- **[Cognitive Dissonance: Why Do Language Model Outputs Disagree with Internal Representations of Truthfulness?](https://aclanthology.org/2023.emnlp-main.291.pdf)** by Kevin Liu, Stephen Casper, Dylan Hadfield-Menell, Jacob Andreas
 <!--Limitations of IT/FT-->
 - **[Pretraining Language Models with Human Preferences](https://arxiv.org/abs/2302.08582)** by Tomasz Korbak et al.
 - **[A Closer Look at the Limitations of Instruction Tuning](https://arxiv.org/abs/2402.05119)** by Sreyan Ghosh et al.
 - **[The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context Learning](https://arxiv.org/abs/2312.01552)** by Bill Yuchen Lin et al.
-- **[The False Promise of Imitating Proprietary LLMs](https://arxiv.org/abs/2305.15717)** by Arnav Gudibande et al.
 - **[Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634)** by Nicholas Carlini et al.
 <!--Auditing-->
 - **[Automatically Auditing Large Language Models via Discrete Optimization](https://arxiv.org/abs/2303.04381)** by Erik Jones, Anca Dragan, Aditi Raghunathan, Jacob Steinhardt
