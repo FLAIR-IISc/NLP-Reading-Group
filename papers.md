@@ -77,6 +77,7 @@
 - **[BooookScore: A systematic exploration of book-length summarization in the era of LLMs](https://arxiv.org/abs/2310.00785)** by Yapei Chang, Kyle Lo, Tanya Goyal, Mohit Iyyer
 - **[ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models](https://arxiv.org/abs/2310.04564)** by Iman Mirzadeh et al.
 - **[Self-Alignment with Instruction Backtranslation](https://arxiv.org/abs/2308.06259)** by Xian Li et al.
+- **[Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors](https://arxiv.org/abs/2310.02980)** by Ido Amos, Jonathan Berant, Ankit Gupta
   
 #### Others:
 - **[Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications](https://arxiv.org/abs/2402.05162)** by Boyi Wei et al.
