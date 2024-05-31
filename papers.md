@@ -72,12 +72,17 @@
 - ~**[Proving Test Set Contamination in Black Box Language Models](https://arxiv.org/abs/2310.17623)** by Yonatan Oren et el.~
 - ~**[Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://arxiv.org/abs/2310.03693)** by Xiangyu Qi et al.~
 - ~**[Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511)** by Akari Asai et al.~
-- **[LLMCarbon: Modeling the end-to-end Carbon Footprint of Large Language Models](https://arxiv.org/abs/2309.14393)** by Ahmad Faiz et al.
-- **[Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models](https://arxiv.org/abs/2305.09955)** by Shangbin Feng et al.
-- **[BooookScore: A systematic exploration of book-length summarization in the era of LLMs](https://arxiv.org/abs/2310.00785)** by Yapei Chang, Kyle Lo, Tanya Goyal, Mohit Iyyer
+- ~**[LLMCarbon: Modeling the end-to-end Carbon Footprint of Large Language Models](https://arxiv.org/abs/2309.14393)** by Ahmad Faiz et al.~
+- ~**[Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models](https://arxiv.org/abs/2305.09955)** by Shangbin Feng et al.~
+- ~**[BooookScore: A systematic exploration of book-length summarization in the era of LLMs](https://arxiv.org/abs/2310.00785)** by Yapei Chang, Kyle Lo, Tanya Goyal, Mohit Iyyer~
 - **[ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models](https://arxiv.org/abs/2310.04564)** by Iman Mirzadeh et al.
 - **[Self-Alignment with Instruction Backtranslation](https://arxiv.org/abs/2308.06259)** by Xian Li et al.
 - **[Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors](https://arxiv.org/abs/2310.02980)** by Ido Amos, Jonathan Berant, Ankit Gupta
+- **[Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks](https://arxiv.org/abs/2309.17410)** by Vaidehi Patil, Peter Hase, Mohit Bansal
+- **[Beyond Memorization: Violating Privacy Via Inference with Large Language Models](https://arxiv.org/abs/2310.07298)** by Robin Staab
+- **[Instructive Decoding: Instruction-Tuned Large Language Models are Self-Refiner from Noisy Instructions](https://arxiv.org/abs/2311.00233)** by Taehyeon Kim, Joonkee Kim, Gihun Lee, Se-Young Yun
+- **[At Which Training Stage Does Code Data Help LLMs Reasoning?](https://arxiv.org/abs/2309.16298)** by Yingwei Ma et el.
+- **[Time Travel in LLMs: Tracing Data Contamination in Large Language Models](https://arxiv.org/abs/2308.08493)** by Shahriar Golchin, Mihai Surdeanu
   
 #### Others:
 - **[Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications](https://arxiv.org/abs/2402.05162)** by Boyi Wei et al.
