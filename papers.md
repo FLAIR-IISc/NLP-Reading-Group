@@ -83,6 +83,13 @@
 - **[Instructive Decoding: Instruction-Tuned Large Language Models are Self-Refiner from Noisy Instructions](https://arxiv.org/abs/2311.00233)** by Taehyeon Kim, Joonkee Kim, Gihun Lee, Se-Young Yun
 - **[At Which Training Stage Does Code Data Help LLMs Reasoning?](https://arxiv.org/abs/2309.16298)** by Yingwei Ma et el.
 - **[Time Travel in LLMs: Tracing Data Contamination in Large Language Models](https://arxiv.org/abs/2308.08493)** by Shahriar Golchin, Mihai Surdeanu
+
+- **[Unbiased Watermark for Large Language Models](https://openreview.net/forum?id=uWVC5FVidc)** by Zhengmian Hu, Lichang Chen, Xidong Wu, Yihan Wu, Hongyang Zhang, Heng Huang
+- **[Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities Of Language Models With Hypothesis Refinement](https://openreview.net/forum?id=bNt7oajl2a)** by Linlu Qiu, Liwei Jiang, Ximing Lu, Melanie Sclar, Valentina Pyatkin, Chandra Bhagavatula, Bailin Wang, Yoon Kim, Yejin Choi, Nouha Dziri, Xiang Ren
+- **[In-Context Pretraining: Language Modeling beyond Document Boundaries](https://openreview.net/forum?id=LXVswInHOo)** by Weijia Shi, Sewon Min, Maria Lomeli, Chunting Zhou, Margaret Li, Gergely Szilvasy, Rich James, Xi Victoria Lin, Noah A. Smith, Luke Zettlemoyer, Scott Yih, Mike Lewis
+- **[Catastrophic Jailbreak of Open-Source LLMs](https://openreview.net/forum?id=r42tSSCHPh)** by Yangsibo Huang, Samyak Gupta, Mengzhou Xia, Kai Li, Danqi Chen
+- **[Overthinking the Truth: How Language Models Process False Demonstrations](https://openreview.net/forum?id=Tigr1kMDZy)** by Danny Halawi, Jean-Stanislas Denain∗, and Jacob Steinhardt
+- **[Controlled Text Generation via Language Model Arithmetic](https://openreview.net/forum?id=SLw9fp4yI6)** by Jasper Dekoninck, Marc Fischer, Luca Beurer-Kellner, Martin Vechev
   
 #### Others:
 - **[Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications](https://arxiv.org/abs/2402.05162)** by Boyi Wei et al.
