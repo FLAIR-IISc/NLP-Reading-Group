@@ -92,6 +92,7 @@
 - **[Controlled Text Generation via Language Model Arithmetic](https://openreview.net/forum?id=SLw9fp4yI6)** by Jasper Dekoninck, Marc Fischer, Luca Beurer-Kellner, Martin Vechev
   
 #### Others:
+- **[TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://aclanthology.org/2022.acl-long.229.pdf/)** by Stephanie Lin, Jacob Hilton and Owain Evans.
 - **[Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications](https://arxiv.org/abs/2402.05162)** by Boyi Wei et al.
 <!--Privacy Issues-->
 - **[Privacy-Preserving In-Context Learning with Differentially Private Few-Shot Generation](https://arxiv.org/abs/2309.11765)** by Xinyu Tang et al.
