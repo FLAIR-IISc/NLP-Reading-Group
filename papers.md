@@ -184,3 +184,10 @@
 - [Data Mixture Inference: What do BPE Tokenizers Reveal about their Training Data?](https://arxiv.org/abs/2407.16607) Hayase et al
 - [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905) Tian et al
 
+
+#### Some popular papers on twitter / from arxiv-feed
+
+- [Who Validates the Validators? Aligning LLM-Assisted Evaluation of LLM Outputs with Human Preferences](https://arxiv.org/abs/2404.12272)
+- [Do generative video models understand physical principles?](https://arxiv.org/abs/2501.09038)
+- [Large Language Models Reflect the Ideology of their Creators](https://arxiv.org/abs/2410.18417)
+- [Uncovering Gaps in How Humans and LLMs Interpret Subjective Language](https://www.arxiv.org/abs/2503.04113)
