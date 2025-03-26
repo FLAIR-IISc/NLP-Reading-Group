@@ -191,3 +191,7 @@
 - [Do generative video models understand physical principles?](https://arxiv.org/abs/2501.09038)
 - [Large Language Models Reflect the Ideology of their Creators](https://arxiv.org/abs/2410.18417)
 - [Uncovering Gaps in How Humans and LLMs Interpret Subjective Language](https://www.arxiv.org/abs/2503.04113)
+
+#### 27th March
+- [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/)
+- [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/abs/2503.13657)
