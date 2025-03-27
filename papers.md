@@ -195,3 +195,4 @@
 #### 27th March
 - [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/)
 - [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/abs/2503.13657)
+- [LLM-Generated Black-box Explanations Can Be Adversarially Helpful](https://arxiv.org/abs/2405.06800)
