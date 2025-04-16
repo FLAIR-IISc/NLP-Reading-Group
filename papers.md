@@ -197,3 +197,14 @@
 - [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/)
 - [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/abs/2503.13657)
 - [LLM-Generated Black-box Explanations Can Be Adversarially Helpful](https://arxiv.org/abs/2405.06800)
+
+
+#### ICLR 25
+
+##### 17th April
+
+- [Consistency Checks for Language Model Forecasters](https://openreview.net/forum?id=r5IXBlTCGc)
+- [Limits to scalable evaluation at the frontier: LLM as judge won’t beat twice the data](https://openreview.net/forum?id=NO6Tv6QcDs)
+- [Reducing Hallucinations in Large Vision-Language Models via Latent Space Steering](https://openreview.net/forum?id=LBl7Hez0fF)
+- [Adversarial Perturbations Cannot Reliably Protect Artists From Generative AI](https://openreview.net/forum?id=yfW1x7uBS5)
+
