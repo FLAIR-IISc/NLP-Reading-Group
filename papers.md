@@ -208,3 +208,8 @@
 - [Reducing Hallucinations in Large Vision-Language Models via Latent Space Steering](https://openreview.net/forum?id=LBl7Hez0fF)
 - [Adversarial Perturbations Cannot Reliably Protect Artists From Generative AI](https://openreview.net/forum?id=yfW1x7uBS5)
 
+####  30th October 
+- [When Models Manipulate Manifolds: The Geometry of a Counting Task](https://transformer-circuits.pub/2025/linebreaks/)
+- [ImpossibleBench: Measuring LLMs' Propensity of Exploiting Test Cases](https://arxiv.org/abs/2510.20270)
+- [What are human values, and how do we align AI to them?](https://arxiv.org/abs/2404.10636)
+- [Continual Learning via Sparse Memory Finetuning](https://export.arxiv.org/pdf/2510.15103)
